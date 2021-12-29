@@ -1,0 +1,7 @@
+{
+  "presets": [
+    "@babel/preset-env", // Compila todo lo que es Js moderno
+    "@babel/preset-react"
+  ],
+  "plugins": ["@babel/plugin-transform-runtime"]
+}

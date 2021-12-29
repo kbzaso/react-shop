@@ -7,7 +7,7 @@ The application works client-side for the most part, taking advantage of the sto
 
 ## View project :rocket:
 
-### [Deploy](https://matiaschiodo-react-shop.netlify.app/)
+### [Deploy](https://kbzaso.github.io/react-shop/)
 
 ## Resources and Links :fountain:
 
@@ -24,7 +24,7 @@ The application works client-side for the most part, taking advantage of the sto
 Clone yardsales:
 
 ```
-git clone https://github.com/matiaschiodo/react-shop.git
+git clone https://github.com/kbzaso/react-shop.git
 ```
 
 Install dependencies:

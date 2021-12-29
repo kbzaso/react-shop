@@ -1,14 +1,19 @@
 {
-  "name": "REACT",
+  "name": "REACT mini shop",
   "version": "1.0.0",
-  "description": "",
+  "description": "Practical project of Reactjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack serve --config webpack.config.js",
+    "start": "webpack serve --open",
     "build": "webpack --mode production"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "javascript",
+    "e-commerce",
+    "shop"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {

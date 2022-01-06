@@ -13,7 +13,6 @@ about: Suggest a new idea for the project.
 title: Feature -
 labels: feature
 assignees: ''
-
 ---
 
 ## Is your feature request related to a problem? Please describe. ✏️

@@ -1,18 +1,10 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: "Plugin Bug report"
-about: Create a bug report for the current project.
-title: "Bug Report - "
+title: 'Bug Report - '
 labels: bug
 assignees: ''
+
 ---
 
 ## Describe the bug 🪲

@@ -1,4 +1,4 @@
-# Yard Sales React Store Delete
+# Yard Sales React Store 
 
 It is a React.js SPA builded for the Practical React Course of Platzi.
 Thanks to the React Router you can accessed to the different views and pages.

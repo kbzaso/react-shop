@@ -10,7 +10,7 @@ assignees: ''
 ---
 name: "Plugin Bug report"
 about: Create a bug report for the current project.
-title: 'Bug Report - '
+title: "Bug Report - "
 labels: bug
 assignees: ''
 ---
